@@ -8,11 +8,11 @@ for Shadowbin.
 There are a couple of symbols we use to explain the relationship of data
 for some payload fields:
 
-- \* Means that this field is only present if it is received from the Gateway,
+- `*` Means that this field is only present if it is received from the Gateway,
   indicating you've been requested to send an event. An `op` field will always
   be present in order to detect if the event requires a response. The symbol
   only applies for operation codes allowing a send and receive action. If the
-  \* symbol is used on an operation code with a payload that does not
+  `*` symbol is used on an operation code with a payload that does not
   recognise both actions, this is instead recognised as a condition.
 - `?` Signifies that a particular part of a field is optional. If this is
   placed on a type, this means that the data received may be `null`; and
