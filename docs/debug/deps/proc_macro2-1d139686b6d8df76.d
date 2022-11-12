@@ -1,0 +1,11 @@
+C:\Users\jwals\OneDrive\Coding\shdwbin-gateway\docs/debug\deps\proc_macro2-1d139686b6d8df76.rmeta: C:\Users\jwals\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.47\src\lib.rs C:\Users\jwals\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.47\src\marker.rs C:\Users\jwals\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.47\src\parse.rs C:\Users\jwals\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.47\src\rcvec.rs C:\Users\jwals\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.47\src\detection.rs C:\Users\jwals\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.47\src\fallback.rs C:\Users\jwals\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.47\src\wrapper.rs
+
+C:\Users\jwals\OneDrive\Coding\shdwbin-gateway\docs/debug\deps\proc_macro2-1d139686b6d8df76.d: C:\Users\jwals\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.47\src\lib.rs C:\Users\jwals\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.47\src\marker.rs C:\Users\jwals\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.47\src\parse.rs C:\Users\jwals\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.47\src\rcvec.rs C:\Users\jwals\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.47\src\detection.rs C:\Users\jwals\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.47\src\fallback.rs C:\Users\jwals\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.47\src\wrapper.rs
+
+C:\Users\jwals\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.47\src\lib.rs:
+C:\Users\jwals\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.47\src\marker.rs:
+C:\Users\jwals\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.47\src\parse.rs:
+C:\Users\jwals\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.47\src\rcvec.rs:
+C:\Users\jwals\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.47\src\detection.rs:
+C:\Users\jwals\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.47\src\fallback.rs:
+C:\Users\jwals\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.47\src\wrapper.rs:

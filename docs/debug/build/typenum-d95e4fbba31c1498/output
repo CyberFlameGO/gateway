@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=C:\Users\jwals\OneDrive\Coding\shdwbin-gateway\docs/debug\build\typenum-d95e4fbba31c1498\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=C:\Users\jwals\OneDrive\Coding\shdwbin-gateway\docs/debug\build\typenum-d95e4fbba31c1498\out\op.rs
