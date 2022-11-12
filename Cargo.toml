@@ -6,7 +6,16 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-edgedb-tokio = "0.3.0"
-tokio = { version = "1", features = ["full"] }
+# Async
 warp = "0.3"
+tokio = { version = "1", features = ["full"] }
+
+# Building/serialisers
 anyhow = "1.0.63"
+serde = { version = "1", features = ["derive"] }
+
+# Database
+edgedb-tokio = "0.3.0"
+
+# Utils
+rand = "0.8.4"
