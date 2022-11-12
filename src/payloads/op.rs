@@ -1,3 +1,6 @@
+use serde::{Serialize, Deserialize};
+
+#[derive(Serialize, Deserialize)]
 /// Represents the operation codes of the Gateway.
 pub enum OpCode {
     /// HELLO - upon connecting to the Gateway.

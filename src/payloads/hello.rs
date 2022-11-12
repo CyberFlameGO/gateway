@@ -1,6 +1,8 @@
-use rand::{thread_rng, Rng};
 use crate::op::OpCode;
+use rand::{thread_rng, Rng};
+use serde::{Serialize, Deserialize};
 
+#[derive(Serialize, Deserialize)]
 /// Represents a `HELLO` payload.
 pub struct Hello {
     /// The operation code, defaults to `OpCode::Hello`.
