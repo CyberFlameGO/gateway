@@ -21,8 +21,8 @@ for some payload fields:
 
 ## Operation Codes
 
-The Gateway uses an `OpCode` enumerator to determine what operations may
-take place for client and webserver connections:
+The Gateway uses an [`OpCode`](#operation-codes) enumerator to determine what
+operations may take place for client and webserver connections:
 
 Constant        | Code | Action       | Payload?
 ----------------|------|--------------|---------
