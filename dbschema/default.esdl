@@ -1,4 +1,9 @@
 module default {
+    # The current EdgeDB version.
+    global current_edgedb_version -> str {
+        default := (select sys::get_version_as_str());
+    }
+
     # Represents the state of the Gateway, e.g. general details.
     abstract type State {
         # The current version of the Gateway.
