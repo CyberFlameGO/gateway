@@ -28,7 +28,7 @@ Constant        | Code | Action       | Payload?
 ----------------|------|--------------|---------
 `HELLO`         | `0`  | Receive      | [`Hello`](#hello)
 `HEARTBEAT`     | `1`  | Send/Receive | [`Heartbeat`](#heartbeat)
-`HEARTBEAT_ACK` | `2`  | Receive      | [`HeartbeatAck`](#heartbeat-ack)
+`HEARTBEAT_ACK` | `2`  | Receive      | [`HeartbeatAck`](#heartbeat_ack)
 `TERMINATE`     | `3`  | Receive      | [`Terminate`](#terminate)
 `DECLARE`       | `4`  | Send         | [`Declare`](#declare)
 
